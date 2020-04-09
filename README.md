@@ -1,2 +1,9 @@
-# project
-Machine-Learning, Deep-Learning project
+# Project
+Machine-Learning, Deep-Learning
+
+Project
+  - [NLP] SHOW_ME_THE_LYRICS
+
+kaggle
+  - Titanic
+  - NLP Real or Not
