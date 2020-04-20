@@ -1,0 +1,8 @@
+python 3.6
+tensorflow 2.0
+tensorflow-hub
+keras
+sentencepiece
+nltk 3.2.5
+nltk - stopwords
+nltk - punkt
